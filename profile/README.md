@@ -2,7 +2,7 @@
 
 **Verified Data Infrastructure · Bi-Temporal Knowledge Graphs · Model Context Protocol (MCP) Engines**
 
-[**belgravialabs.com**](https://belgravialabs.com) · [**agenticweb.wiki**](https://agenticweb.wiki) · [**MCP Server (`https://agenticweb.wiki/mcp`)**](https://agenticweb.wiki/mcp) · [**agentvc.ai**](https://agentvc.ai) · [**info@belgravialabs.com**](mailto:info@belgravialabs.com)
+[**belgravialabs.com**](https://belgravialabs.com) · [**agenticweb.wiki**](https://agenticweb.wiki) · [**MCP Server (`https://agenticweb.wiki/mcp`)**](https://agenticweb.wiki/mcp) · [**agenticresources.dev**](https://agenticresources.dev) · [**info@belgravialabs.com**](mailto:info@belgravialabs.com)
 
 ---
 
@@ -35,7 +35,7 @@ Where standard document parsers stop at converting a single file into raw JSON, 
 [05] Hierarchical Agent Teams & Observability (Supervisor-Worker Execution + Citation Audit Logs)
   │
   ▼
-[06] Verified Synthetic & Contrastive Data Flywheel (Deterministic Verifiers → AgentVC.ai Corpora)
+[06] Verified Synthetic & Contrastive Data Flywheel (Deterministic Verifiers → Evaluation Corpora)
   │
   ▼
 [07] Live Domain Instances & Two-Way MCP Surfaces (Serving Agents & Feeding Signal Back to Stage 01)
