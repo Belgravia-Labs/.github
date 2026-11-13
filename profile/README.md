@@ -2,7 +2,7 @@
 
 **Verified Data Infrastructure · Bi-Temporal Knowledge Graphs · Model Context Protocol (MCP) Engines**
 
-[**belgravialabs.com**](https://belgravialabs.com) · [**agenticweb.wiki**](https://agenticweb.wiki) · [**MCP Server (`https://agenticweb.wiki/mcp`)**](https://agenticweb.wiki/mcp) · [**agenticresources.dev**](https://agenticresources.dev) · [**info@belgravialabs.com**](mailto:info@belgravialabs.com)
+[**belgravialabs.com**](https://belgravialabs.com) · [**agenticweb.wiki**](https://agenticweb.wiki) · [**MCP Server (`https://agenticweb.wiki/mcp`)**](https://agenticweb.wiki/mcp) · [**contact@agenticweb.wiki**](mailto:contact@agenticweb.wiki)
 
 ---
 
@@ -49,7 +49,7 @@ Every vertical surface below runs on the same underlying **Belgravia Pointer Eng
 
 | Instance | Domain / Surface | Core Engine Capabilities in Production | Status |
 | :--- | :--- | :--- | :--- |
-| **Instance 01 · AgenticWeb** | [`agenticweb.wiki`](https://agenticweb.wiki)<br>[`agenticresources.dev`](https://agenticresources.dev) | Public protocol discovery registry indexing machine-readable MCP endpoints, `llms.txt`, and Agentic Resource Descriptor (`ard.json`) manifests. Serves **10 live MCP tools** (`define`, `get`, `search`, `has`, `probe`, `changes`, `stale`, `validate_manifest`, `template`, `ask`) and **52 head-to-head benchmarks**. | **Live in Production** (`Cloudflare Workers + D1 + KV`) |
+| **Instance 01 · AgenticWeb** | [`agenticweb.wiki`](https://agenticweb.wiki) | Public protocol observatory indexing machine-readable MCP endpoints, `llms.txt`, and Agentic Resource Discovery (`ard.json` / `ai-catalog.json`) manifests across **132 standards**, **11 live MCP tools**, and **74 head-to-head comparisons**. | **Live in Production** (`Cloudflare Workers + KV`) |
 | **Instance 02 · TermsBot** | `TermsBot Compliance Sensor` | Bi-temporal diff engine tracking Terms-of-Service, `robots.txt`, AI training clauses, and API licensing changes with exact byte-offset provenance — powering Stage 02 compliance lineage. | **Private MCP / Enterprise Intake** |
 | **Instance 03 · TubeHound** | `@tubehound` / `tubehound.co.uk` | 24/7 high-frequency streaming instance ingesting Transport for London (TfL) network state, planned closures, and headway telemetry to drive an autonomous live broadcast encoder and transit state API. | **Live 24/7 Broadcast & API** |
 | **Instance 04 · Sparebay** | `Sparebay Constraint Verifier` | Deterministic **461-rule hardware, ECC memory, and server chassis constraint solver** paired with an autonomous inventory clerk — generating verified tool-use and constraint-satisfaction trajectories for Stage 06. | **Private Engine (`461/461` Tests Passing)** |
@@ -96,8 +96,8 @@ curl -sS -X POST https://agenticweb.wiki/mcp \
 ## Repository Structure & Open-Data Policy
 
 - **Private Production Repositories:** Core ingestion workers, bi-temporal entity resolution pipelines, deterministic constraint verifiers, and commercial vertical instances are maintained in private repositories under `Belgravia Labs LLC`.
-- **Public Specifications, Schemas & Datasets:** Canonical protocol registries, JSON Schemas, executable probe rules, and open benchmark metadata are published in [`Belgravia-Labs/agenticweb-data`](https://github.com/Belgravia-Labs/agenticweb-data) under CC BY 4.0.
+- **Public Schemas & Probe Rules:** JSON Schemas, executable front-door probe rules, and MCP tool definitions for `agenticweb.wiki` are published in [`Belgravia-Labs/agenticweb-schemas`](https://github.com/Belgravia-Labs/agenticweb-schemas) under the MIT License.
 
 ---
 
-**Belgravia Labs LLC** · 30 N Gould St, Ste N, Sheridan, WY 82801, USA · [belgravialabs.com](https://belgravialabs.com) · [info@belgravialabs.com](mailto:info@belgravialabs.com)
+**Belgravia Labs LLC** · 30 N Gould St, Ste N, Sheridan, WY 82801, USA · [belgravialabs.com](https://belgravialabs.com)
